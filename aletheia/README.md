@@ -8,7 +8,7 @@ Erdos problems and one in LeeSeo26, are not from Aletheia. The latter is for
 illustration purposes only (a correct solution was obtained by various models,
 including Aletheia).
 
-* A generalization of Erdos-1051, proving irrationality of certain rapidly converging series: [tex](BKKKZ26.tex), [pdf](BKKKZ26.pdf) ([full paper](https://arxiv.org/abs/2601.21442)).
+* A generalization of Erdos-1051, proving irrationality of certain rapidly converging series: [tex](BKKKZ26/BKKKZ26.tex), [pdf](BKKKZ26/BKKKZ26.pdf) ([full paper](https://arxiv.org/abs/2601.21442)).
 * Results from a semi-autonomous case study on applying Gemini to open Erdős problems: [tex](Erdos/Erdos.tex), [pdf](Erdos/Erdos.pdf) ([full paper](https://arxiv.org/abs/2601.22401)).
 
 ## License and disclaimer
